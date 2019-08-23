@@ -1,3 +1,5 @@
+TEST PR
+
 # Welcome to Rails
 
 ## What's Rails?
@@ -37,7 +39,7 @@ are bundled together in [Action Pack](actionpack/README.rdoc).
 The _**View layer**_ is composed of "templates" that are responsible for providing
 appropriate representations of your application's resources. Templates can
 come in a variety of formats, but most view templates are HTML with embedded
-Ruby code (ERB files). Views are typically rendered to generate a controller response 
+Ruby code (ERB files). Views are typically rendered to generate a controller response
 or to generate the body of an email. In Rails, View generation is handled by [Action View](actionview/README.rdoc).
 
 ## Frameworks and libraries
